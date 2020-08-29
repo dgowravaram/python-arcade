@@ -1,6 +1,6 @@
-# pong
+# Python Arcade
 
-pong game implemented with turtle 
+Reconstructions of the classic games Pong, Snake, and Space Invaders.
 
 # Pong
 
